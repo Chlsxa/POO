@@ -25,4 +25,4 @@ class logueo{
 let autorizacion = new logueo("Lola", 1234);
 let autorizacion2 = new logueo("Charly", "dumb");
 console.log(autorizacion.iniciar_sesion());
-console.log(autorizacion2.ver_historias());
+console.log(autorizacion2.ver_historias()); 
